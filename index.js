@@ -24,11 +24,7 @@ function iLoveTheBeatles(number) {
     array.push("I love the Beatles!");
      i++
   }
-  while (i<number);
-  if (number<15) {
+  while (number<15);
     return (array)
-  }
-else {
-  return (["I love the Beatles!"])
 }
-}
+
