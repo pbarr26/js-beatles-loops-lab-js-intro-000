@@ -28,4 +28,7 @@ function iLoveTheBeatles(number) {
   if (number<15) {
     return (array)
   }
+else {
+  return (["I love the Beatles!"])
+}
 }
